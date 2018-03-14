@@ -1,0 +1,15 @@
+{
+  "name": "blockchain-lab-01",
+  "version": "1.0.0",
+  "description": "Blokchain Lab 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blockchain",
+    "hands-on-labs"
+  ],
+  "author": "@javierglozano",
+  "license": "ISC"
+}
