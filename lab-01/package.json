@@ -11,5 +11,8 @@
     "hands-on-labs"
   ],
   "author": "@javierglozano",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^4.1.3"
+  }
 }
